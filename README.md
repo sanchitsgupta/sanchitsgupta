@@ -14,15 +14,13 @@
 🎸 When I'm not working, I like to play the guitar, invest in stocks, cycle, and sometimes do origami.  
 ⚡ Fun fact: .  
 💬 If you have any questions, feel free to reach out to me. I'm happy to help!  
-
-<br />
-
+  
 ### 🔨 **Languages and Tools**
 
 <br />
 
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-<img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
