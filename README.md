@@ -27,18 +27,20 @@
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 </div>
 
-<br />
+<br /><br />
 
+<div>
 <img align="left" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
-<img height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
-<img height="25px" src="https://www.sarvap.in/wp-content/uploads/mysql.png">
-<img height="25px" src="https://seeklogo.com/images/N/neo4j-logo-6863235D8A-seeklogo.com.png">
-<img height="25px" src="https://www.lavca.org/app/uploads/2019/10/aws-logo-square.png">
-<img height="25px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png">
-<img height="25px" src="https://pngset.com/images/kube-kubernetes-logo-symbol-trademark-star-symbol-emblem-transparent-png-1496896.png">
-<img height="25px" src="https://brandslogos.com/wp-content/uploads/images/elasticsearch-logo-vector.svg">
+<img align="left" height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
+<img align="left" height="25px" src="https://www.sarvap.in/wp-content/uploads/mysql.png">
+<img align="left" height="25px" src="https://seeklogo.com/images/N/neo4j-logo-6863235D8A-seeklogo.com.png">
+<img align="left" height="25px" src="https://www.lavca.org/app/uploads/2019/10/aws-logo-square.png">
+<img align="left" height="25px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png">
+<img align="left" height="25px" src="https://pngset.com/images/kube-kubernetes-logo-symbol-trademark-star-symbol-emblem-transparent-png-1496896.png">
+<img align="left" height="25px" src="https://brandslogos.com/wp-content/uploads/images/elasticsearch-logo-vector.svg">
+</div>
 
-<br />
+<br /><br />
 
 <!-- Social Links -->
 ###  🤝 **Connect With Me**
