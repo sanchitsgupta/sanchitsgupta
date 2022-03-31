@@ -27,7 +27,7 @@
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 </div>
 
-<br /><br />
+<br />
 
 <div>
 <img align="left" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
