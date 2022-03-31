@@ -17,8 +17,6 @@
   
 ## 🔨 **Languages and Tools**
 
-<!-- <br /> -->
-
 <div>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
@@ -27,7 +25,7 @@
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 </div>
 
-<br />
+<br /><br />
 
 <div>
 <img align="left" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
@@ -43,11 +41,12 @@
 <br /><br />
 
 <!-- Social Links -->
-###  🤝 **Connect With Me**
+##  🤝 **Connect With Me**
 
-<br />
-<a href="https://www.linkedin.com/in/sanchitsgupta">
-    <img alt="My LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+<div>
+    <a href="https://www.linkedin.com/in/sanchitsgupta">
+        <img alt="My LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    </a>
+</div>
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
