@@ -19,8 +19,12 @@
 
 <br />
 
+<code>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
+</code>
+<code>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+</code>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
