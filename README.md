@@ -1,5 +1,5 @@
 ### **Hey, I'm Sanchit!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+  
 <!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
 🚀 I’m a **full-stack engineer**, specializing in **backend** technologies and **AI**. I have **designed and implemented several products** (ranging from cloud cost optimization to intelligent knowledge base systems).  
