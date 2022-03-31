@@ -15,9 +15,9 @@
 ⚡ Fun fact: .  
 💬 If you have any questions, feel free to reach out to me. I'm happy to help!  
   
-### 🔨 **Languages and Tools**
+## 🔨 **Languages and Tools**
 
-<br />
+<!-- <br /> -->
 
 <div>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
