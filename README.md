@@ -1,5 +1,4 @@
 ### **Hey, I'm Sanchit!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
 
 <!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
@@ -26,17 +25,14 @@
 
 <br />
 
-<code>
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 <img height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
-</code>
 
 <br />
 
-<code>
 <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
 <img height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
 <img height="25px" src="https://www.sarvap.in/wp-content/uploads/mysql.png">
@@ -45,7 +41,6 @@
 <img height="25px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png">
 <img height="25px" src="https://pngset.com/images/kube-kubernetes-logo-symbol-trademark-star-symbol-emblem-transparent-png-1496896.png">
 <img height="25px" src="https://brandslogos.com/wp-content/uploads/images/elasticsearch-logo-vector.svg">
-</code>
 
 <br />
 
