@@ -27,7 +27,7 @@
 
 <br />
 
-<img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
+<img align="left" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
 <img height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
 <img height="25px" src="https://www.sarvap.in/wp-content/uploads/mysql.png">
 <img height="25px" src="https://seeklogo.com/images/N/neo4j-logo-6863235D8A-seeklogo.com.png">
