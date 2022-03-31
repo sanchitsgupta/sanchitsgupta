@@ -1,4 +1,4 @@
-### **Hey, I'm Sanchit!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## **Hey, I'm Sanchit!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 <!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
@@ -6,7 +6,7 @@
 
 💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions.
   
-### 🧐 **More About Me**
+## 🧐 **More About Me**
   
 🎓 B.E. in Computer Science + M.Sc. in Mathematics from BITS Pilani Hyderabad Campus.  
 🌱 I’m currently learning Design Patterns and Front-End development.  
