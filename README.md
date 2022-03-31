@@ -5,9 +5,7 @@
 🚀 I’m a **full-stack engineer**, specializing in **backend** technologies and **AI**. I have **designed and implemented several products** (ranging from cloud cost optimization to intelligent knowledge base systems).  
 
 💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions.
-
-<br />
-
+  
 ### 🧐 **More About Me**
 
 <br />
