@@ -49,8 +49,6 @@
     </a>
 </div>
 
-<br />
-
 ## 📣 **How about a quote before you go?**
 
 > <!--STARTS_HERE_QUOTE_README-->
