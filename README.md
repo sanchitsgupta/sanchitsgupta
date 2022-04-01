@@ -41,12 +41,18 @@
 <br /><br />
 
 <!-- Social Links -->
-##  🤝 **Connect With Me**
+## 🤝 **Connect With Me**
 
 <div>
     <a href="https://www.linkedin.com/in/sanchitsgupta">
         <img alt="My LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a>
 </div>
+
+<br />
+
+## 📣 **How about a quote before you go?**
+
+> <!--STARTS_HERE_QUOTE_README--> <!--ENDS_HERE_QUOTE_README-->
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
