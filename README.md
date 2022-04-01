@@ -5,16 +5,16 @@
 🚀 I’m a **full-stack engineer**, specializing in **backend** technologies and **AI**. I have **designed and implemented several products** (ranging from cloud cost optimization to intelligent knowledge base systems).  
 
 💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions.
-  
+
 ## 🧐 **More About Me**
-  
+
 🎓 B.E. in Computer Science + M.Sc. in Mathematics from BITS Pilani Hyderabad Campus.  
 🌱 I’m currently learning Design Patterns and Front-End development.  
 📝 My resume.  
-🎸 When I'm not working, I like to play the guitar, invest in stocks, cycle, and sometimes do origami.  
-⚡ Fun fact: .  
-💬 If you have any questions, feel free to reach out to me. I'm happy to help!  
-  
+🎸 When I'm not working, I like to play the guitar, cycle, and sometimes do origami.  
+⚡ Fun fact: I can wiggle my ears.  
+💬 If you have any questions, feel free to reach out to me. I'm happy to help!
+
 ## 🔨 **Languages and Tools**
 
 <div>
