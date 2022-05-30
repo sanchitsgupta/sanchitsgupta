@@ -9,7 +9,7 @@
 ## 🧐 **More About Me**
 
 🎓 B.E. (Hons) in Computer Science + M.Sc. (Hons) in Mathematics from BITS Pilani Hyderabad Campus.  
-🌱 I’m currently learning Front-End development.
+🌱 I’m currently learning Front-End development.  
 🎸 When I'm not working, I like to play the guitar, cycle, and sometimes do origami.  
 ⚡ Fun fact: I can wiggle my ears.  
 💬 If you have any questions, feel free to reach out to me. I'm happy to help!
