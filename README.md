@@ -2,7 +2,7 @@
   
 <!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
-🚀 I’m a **software engineer**, specializing in **backend** development and **Data Science**. I have **designed and built several products**, ranging from cloud cost optimization to intelligent knowledge base systems.  
+🚀 I’m a **software engineer**, specializing in **backend** development and **data science**. I have **designed and built several products**, ranging from cloud cost optimization to intelligent knowledge base systems.  
 
 💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions.
 
