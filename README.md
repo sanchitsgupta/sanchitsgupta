@@ -1,4 +1,4 @@
-## **Hey, I'm Sanchit!** <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px">
+## **Hey, I'm Sanchit!** <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="25px" width="25px">
   
 <!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
