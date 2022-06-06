@@ -1,4 +1,4 @@
-## **Hey, I'm Sanchit!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## **Hey, I'm Sanchit!** <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px">
   
 <!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
@@ -51,7 +51,7 @@
 ## 📣 **How about a programming quote before you go?**
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
+<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
