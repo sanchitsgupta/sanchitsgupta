@@ -6,7 +6,7 @@
 
 💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions.
 
-## 🧐 **More About Me**
+## 😎 **More About Me**
 
 🎓 B.E. (Hons) in Computer Science + M.Sc. (Hons) in Mathematics from BITS Pilani Hyderabad Campus.  
 🌱 I’m currently learning Front-End development.  
