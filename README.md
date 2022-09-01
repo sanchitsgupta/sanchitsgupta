@@ -51,7 +51,7 @@
 ## 📣 **How about a programming quote before you go?**
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
