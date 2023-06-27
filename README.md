@@ -51,7 +51,7 @@
 ## 📣 **How about a programming quote before you go?**
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  ❞</i>
+<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
