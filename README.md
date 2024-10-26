@@ -51,7 +51,7 @@
 ## 📣 **How about a programming quote before you go?**
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
+<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
