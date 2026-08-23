@@ -51,7 +51,7 @@
 ## 📣 **How about a programming quote before you go?**
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
+<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- TODOs: GitHub stats [when they get good ;)] -->
